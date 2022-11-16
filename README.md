@@ -1,8 +1,9 @@
 - 👋 Hi, I’m chaxus
 <!---
 - 👀 I am an independent developer,Now I work in Beijing.
-- 🌱 I’m currently learning FE
 --->
+- 👀 I am an developer,Now I work in Beijing.
+- 🌱 I’m currently learning FE
 - ✉️ Mail: 81380@163.com
 
 <!---
