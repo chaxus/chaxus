@@ -1,6 +1,6 @@
 - 👋 Hi, I’m chaxus
 - 👀 I am an developer,Now I work in Beijing.
-- 🌱 I’m currently learning FE, This is my personal website: https://chaxus.github.io/ran/
+- 🌱 I’m currently learning FE.
 - ✉️ Mail: 81380@163.com
 
 <!---
