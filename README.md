@@ -18,3 +18,5 @@ You can click the Preview link to take a look at your changes.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/chaxus/count.svg" />
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaxus&layout=compact&theme=buefy&hide_border=true" alt="" />
