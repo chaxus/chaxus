@@ -4,7 +4,10 @@
 - 👀 I am an developer.
 <!-- - 🌱 I’m currently learning FE. -->
 - ✉️ Mail: 81380@163.com
-- ✨ <img src="https://profile-counter.glitch.me/chaxus/count.svg" />  ✨ 
+<!--
+- ✨ <img src="https://profile-counter.glitch.me/chaxus/count.svg" alt="star"/>  ✨
+- ![](https://visitor-badge.laobi.icu/badge?page_id=chaxus)
+-->
   
 
 <!--
