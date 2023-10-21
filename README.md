@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
   
 </div>
  -->
-
-<img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=chaxus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy&locale=en" />
+<!--
+<img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=chaxus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy&locale=en" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaxus&layout=compact&theme=buefy&hide_border=true" alt="" />
 
 <h2>🌍 some nicknack</h2>
