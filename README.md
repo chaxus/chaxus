@@ -1,8 +1,8 @@
 <h2>☀️ hello world</h2>
-
+<!--
 - 👋 Hi, I’m chaxus
 - 👀 I am an developer.
-<!-- - 🌱 I’m currently learning FE. -->
+- 🌱 I’m currently learning FE. -->
 - ✉️ Mail: 81380@163.com
 <!--
 - ✨ <img src="https://profile-counter.glitch.me/chaxus/count.svg" alt="star"/>  ✨
