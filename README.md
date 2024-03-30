@@ -3,7 +3,7 @@
 - 👋 Hi, I’m chaxus
 - 👀 I am an developer.
 - 🌱 I’m currently learning FE. -->
-- ✉️ Mail: 81380@163.com
+✉️ Mail: 81380@163.com
 
 <div style="position:relative; display: flex; flex-wrap: nowrap;">
     <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
