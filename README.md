@@ -8,7 +8,10 @@
 - ✨ <img src="https://profile-counter.glitch.me/chaxus/count.svg" alt="star"/>  ✨
 - ![](https://visitor-badge.laobi.icu/badge?page_id=chaxus)
 -->
-  
+
+<div style="position:relative; display: flex; flex-wrap: nowrap;">
+    <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
+</div>
 
 <!--
 chaxus/chaxus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
