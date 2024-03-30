@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning FE. -->
 - ✉️ Mail: 81380@163.com
 
-- ✨ <img src="https://profile-counter.glitch.me/chaxus/count.svg" style="width:0px" alt="star"/>  ✨
-- ✨ <img src="https://visitor-badge.laobi.icu/badge?page_id=chaxus" style="width:0px" alt="star"/>  ✨
-- ✨ <img src="https://count.getloli.com/get/@chaxus" style="width:0px" alt="star"/>  ✨
+- ✨ <img src="https://profile-counter.glitch.me/chaxus/count.svg" style="width:0px;height:0px;" alt="chaxus"/>  ✨
+- ✨ <img src="https://visitor-badge.laobi.icu/badge?page_id=chaxus" style="width:0px;height:0px;" alt="chaxus"/>  ✨
+- ✨ <img src="https://count.getloli.com/get/@chaxus" style="width:0px;height:0px;" alt="chaxus"/>  ✨
 
 
 <div style="position:relative; display: flex; flex-wrap: nowrap;">
