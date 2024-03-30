@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: chaxus/metrics@master
         with:
-          token: ${{ secrets.RAN_ACTIONS_TOKEN }}
+          token: ${{ secrets.CHAXUS }}
           user: chaxus
           template: classic
           base: header, activity, community, repositories, metadata

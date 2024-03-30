@@ -25,7 +25,9 @@ You can click the Preview link to take a look at your changes.
  -->
 <!--
 <img align="" height="120px" src="https://github-readme-stats.vercel.app/api?username=chaxus&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=buefy&locale=en" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaxus&layout=compact&theme=buefy&hide_border=true" alt="" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaxus&layout=compact&theme=buefy&hide_border=true" alt="" /> -->
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=chaxus&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+![chaxus](https://count.getloli.com/get/@chaxus)
 
 <h2>🌍 some nicknack</h2>
 
