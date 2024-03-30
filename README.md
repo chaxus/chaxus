@@ -25,11 +25,16 @@ You can click the Preview link to take a look at your changes.
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=chaxus&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="visibility: hidden;">
+<div class="chaxus_hidden">
   <img src="https://profile-counter.glitch.me/chaxus/count.svg" style="width:0px;height:0px;" alt="chaxus"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chaxus" style="width:0px;height:0px;" alt="chaxus"/>
   <img src="https://count.getloli.com/get/@chaxus" style="width:0px;height:0px;" alt="chaxus"/>  
 </div>
+<style>
+.chaxus_hidden {
+  visibility: hidden;
+}
+</style>
 
 <!-- - ✨   ✨ -->
 
