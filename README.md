@@ -1,8 +1,37 @@
-<h2>☀️ hello world</h2>
+
 <!--
+<h2>☀️ hello world</h2>
 - 👋 Hi, I’m chaxus
 - 👀 I am an developer.
-- 🌱 I’m currently learning FE. -->
+- 🌱 I’m currently learning FE.
+✉️ Mail: 81380@163.com
+
+- Before (2020 - 2024): Work for neworiental.
+- Now: work for Longbridge.
+-->
+
+  
+- Mail: 81380@163.com
+
+<h2>Featured</h2>
+
+<h3>TypeScript</h3>
+
+- [ranui](https://github.com/chaxus/ran) - The ultimate solution to the UI component library, based on `web components`, is capable of adapting to a variety of frameworks.
+- [ranuts](https://github.com/chaxus/ran) - Some commonly used functions and tools.
+- [ranlexer](https://github.com/chaxus/ranlexer) - Tiny JavaScript ast parser and generator.
+
+<h2>Contributed</h2>
+
+- [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling.
+- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+<h2>website</h2>
+
+- [pwa website](https://chaxus.github.io/ran/)
+- [excalidraw](https://draw.ranzhouhang.com)
+
+<h2>github</h2>
 
 <div style="position:relative; display: flex; flex-wrap: nowrap;">
     <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
@@ -31,12 +60,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <!-- - ✨   ✨ -->
-
-
-
-✉️ Mail: 81380@163.com
-
-<h2>🌍 some nicknack</h2>
-
-- [personal website](https://chaxus.github.io/ran/)
-- [personal excalidraw website](https://draw.ranzhouhang.com)
