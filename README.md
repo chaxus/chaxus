@@ -18,7 +18,7 @@
 <h3>TypeScript</h3>
 
 - [ranui](https://github.com/chaxus/ran) - The ultimate solution to the `UI` component library, based on `Web Components`, is capable of adapting to a variety of frameworks.
-- [ranuts](https://github.com/chaxus/ran) - Some commonly used functions and tools.
+- [ranuts](https://github.com/chaxus/ran) - Some common `TypeScript` functions and tools.
 - [ranlexer](https://github.com/chaxus/ranlexer) - Tiny JavaScript `AST` parser and generator.
 
 <h2>Contributed</h2>
