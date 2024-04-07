@@ -17,19 +17,19 @@
 
 <h3>TypeScript</h3>
 
-- [ranui](https://github.com/chaxus/ran) - The ultimate solution to the UI component library, based on `web components`, is capable of adapting to a variety of frameworks.
+- [ranui](https://github.com/chaxus/ran) - The ultimate solution to the `UI` component library, based on `Web Components`, is capable of adapting to a variety of frameworks.
 - [ranuts](https://github.com/chaxus/ran) - Some commonly used functions and tools.
-- [ranlexer](https://github.com/chaxus/ranlexer) - Tiny JavaScript ast parser and generator.
+- [ranlexer](https://github.com/chaxus/ranlexer) - Tiny JavaScript `AST` parser and generator.
 
 <h2>Contributed</h2>
 
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling.
-- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [prettier](https://github.com/prettier/prettier) - `Prettier` is an opinionated code formatter.
 
 <h2>Website</h2>
 
-- [chaxus](https://chaxus.github.io/ran/) - Personal website, support dark mode, `Service Worker`, `PWA`, `SSG`, based on `google` and `baidu` to do the user behavior buried point report. The website contains some essays, some of their own commonly used tool function documents, their own written web UI component documents. Automate `CI/CD` deployment to a github page through github actions.
-- [excalidraw](https://draw.ranzhouhang.com) - The website based on `excalidraw` deployment has added a handwriting font suitable for Chinese. Based on Alibaba Cloud server, configure `nginx`, `ssl certificate` and `docker` for deployment.
+- [chaxus](https://chaxus.github.io/ran/) - Personal website, support dark mode, `Service Worker`, `PWA`, `SSG`, based on `google` and `baidu` to do the user behavior buried point report. The website contains some essays, some of their own commonly used tool function documents, their own written web `UI` component documents. Automate `CI/CD` deployment to a github page through github actions.
+- [excalidraw](https://draw.ranzhouhang.com) - The website based on `excalidraw` deployment has added a handwriting font suitable for Chinese. Based on `Alibaba Cloud` server, configure `nginx`, `ssl certificate` and `docker` for deployment.
 
 <h2>Coding</h2>
 
