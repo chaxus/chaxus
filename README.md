@@ -10,7 +10,7 @@
 - Now: work for Longbridge.
 -->
 
-  
+☀️ hello world
 - Mail: 81380@163.com
 
 <h2>Featured</h2>
@@ -26,12 +26,12 @@
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
-<h2>website</h2>
+<h2>Website</h2>
 
-- [pwa website](https://chaxus.github.io/ran/)
-- [excalidraw](https://draw.ranzhouhang.com)
+- [chaxus](https://chaxus.github.io/ran/) - Personal website, support dark mode, `Service Worker`, `PWA`, `SSG`, based on `google` and `baidu` to do the user behavior buried point report. The website contains some essays, some of their own commonly used tool function documents, their own written web UI component documents. Automate `CI/CD` deployment to a github page through github actions.
+- [excalidraw](https://draw.ranzhouhang.com) - The website based on `excalidraw` deployment has added a handwriting font suitable for Chinese. Based on Alibaba Cloud server, configure `nginx`, `ssl certificate` and `docker` for deployment.
 
-<h2>github</h2>
+<h2>Coding</h2>
 
 <div style="position:relative; display: flex; flex-wrap: nowrap;">
     <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
