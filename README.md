@@ -17,13 +17,13 @@
 
 <h3>TypeScript</h3>
 
-- [ranui](https://github.com/chaxus/ran) - The ultimate solution to the `UI` component library, based on `Web Components`, is capable of adapting to a variety of frameworks.
-- [ranuts](https://github.com/chaxus/ran) - Some common `TypeScript` functions and tools.
-- [ranlexer](https://github.com/chaxus/ranlexer) - Tiny `JavaScript` `AST` parser and generator.
+- [ranui](https://github.com/chaxus/ran) - The ultimate solution for the UI component library lies in leveraging `Web components`, which are framework-agnostic and adaptable to any framework, ensuring seamless integration and flexibility.
+- [ranuts](https://github.com/chaxus/ran) - My extensive code library comprises a comprehensive collection of common `TypeScript` functions, handy code snippets, various tools, and much more.
+- [ranlexer](https://github.com/chaxus/ranlexer) - A compact `JavaScrip` `AST` parser and generator, designed for efficiency and simplicity.
 
 <h3>C/C++</h3>
 
-- [ramedia](https://github.com/chaxus/ramedia) - Use `Emscripten` to compile `ffmpeg` into `wasm` that the browser can execute, expecting all kinds of processing and manipulation of video in the browser. However, the `wasm` currently built is very large, and the performance is not good, which requires file splitting and performance optimization.
+- [ramedia](https://github.com/chaxus/ramedia) - Utilize `Emscripten` to compile `ffmpeg` into `wasm`, enabling browser-based execution for diverse video processing and manipulation tasks. However, the currently generated `wasm` file is quite bulky and lacks satisfactory performance, necessitating file splitting and performance optimization efforts.
 
 <h2>Contributed</h2>
 
@@ -32,8 +32,9 @@
 
 <h2>Website</h2>
 
-- [chaxus](https://chaxus.github.io/ran/) - Personal website, support dark mode, `Service Worker`, `PWA`, `SSG`, based on `google` and `baidu` to do the user behavior buried point report. The website contains some essays, some of their own commonly used tool function documents, their own written web `UI` component documents. Automate `CI/CD` deployment to a github page through github actions.
-- [excalidraw](https://draw.ranzhouhang.com) - The website based on `excalidraw` deployment has added a handwriting font suitable for Chinese. Based on `Alibaba Cloud` server, configure `nginx`, `ssl certificate` and `docker` for deployment.
+- [chaxus](https://chaxus.github.io/ran/) - The website offers dark mode, enhanced features with `Service Worker`, seamless experience as a `PWA`, and efficient content delivery through `SSG`. It tracks user behavior with `google` and `baidu` analytics. The site includes essays, tool function documents, and my own web `UI` component documents. Updates are automatically deployed to my`GitHub Page` via `GitHub Actions`.
+
+- [excalidraw](https://draw.ranzhouhang.com) - The website deployment, incorporating `excalidraw`, features handwriting fonts optimized for Chinese readability. For a secure and seamless deployment, I used `Alibaba Cloud` servers with `nginx` for web services, `SSL` certificates for security, and `docker` for containerization. The entire setup is integrated into my personal domain, offering a personalized and secure online experience.
 
 <h2>Coding</h2>
 
