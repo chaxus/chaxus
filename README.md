@@ -10,7 +10,7 @@
 - Now: work for Longbridge.
 -->
 
-☀️ hello world
+☀️ Rust/C/C++/TypeScript
 - Mail: 81380@163.com
 
 <h2>Featured</h2>
