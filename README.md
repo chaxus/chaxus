@@ -12,7 +12,7 @@
 
 ☀️ Rust/C/C++/TypeScript
 - Mail: 81380@163.com
-- WeChat: ranuts
+- WeChat: `ranuts`
 
 <h2>Featured</h2>
 
