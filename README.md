@@ -13,7 +13,14 @@
 ☀️ Rust/C/C++/TypeScript
 - Mail: 81380@163.com
 - WeChat: `ranuts`
+- Juejin: [然燃](https://juejin.cn/user/2981531263964718/posts)
+- Twitter / X: [chaxus1](https://x.com/chaxus1)
+- Facebook: [Ferguson Ethan](https://www.facebook.com/profile.php?id=61563949343290)
+- Reddit: [sometime_9](https://www.reddit.com/user/sometime_9/)
 
+<!--
+- Linkedin: [Ferguson Ethan](https://www.linkedin.com/in/ferguson-ethan-3423752b9/)
+-->
 <h2>Featured</h2>
 
 <h3>TypeScript</h3>
