@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 <div class="chaxus_hidden">
   <!-- <img src="https://profile-counter.glitch.me/chaxus/count.svg" style="width:0px;height:0px;" alt="chaxus"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chaxus" style="width:0px;height:0px;" alt="chaxus"/> -->
-  <img src="https://count.getloli.com/get/@chaxus" style="width:0px;height:0px;" alt="chaxus"/>  
+  <img src="https://count.getloli.com/get/@chaxus?theme=rule34" style="width:0px;height:0px;" alt="chaxus"/>  
 </div>
 
 <!-- - ✨   ✨ -->
