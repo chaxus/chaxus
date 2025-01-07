@@ -10,7 +10,7 @@
 - Now: work for Longbridge.
 -->
 
-☀️ Rust/C/C++/TypeScript
+☀️ 
 - Mail: nouo18@163.com
 - WeChat: `ranuts`
 - Juejin: [然燃](https://juejin.cn/user/2981531263964718/posts)
