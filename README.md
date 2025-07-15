@@ -9,8 +9,6 @@
 ## 📬 Contact
 
 - **Email**: 81380@163.com
-- **WeChat**: `ranuts`
-- **[Juejin](https://juejin.cn/user/2981531263964718/posts)**: 然燃
 - **[Twitter/X](https://x.com/chaxus1)**: chaxus1
 - **[Facebook](https://www.facebook.com/profile.php?id=61563949343290)**: Ferguson Ethan
 - **[Reddit](https://www.reddit.com/user/sometime_9/)**: sometime_9
