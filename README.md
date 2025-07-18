@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Open Source
+## 🛠️ Contribution
 
 - **[vite](https://github.com/vitejs/vite)** - Next Generation Frontend Tooling
 - **[prettier](https://github.com/prettier/prettier)** - Opinionated Code Formatter
