@@ -37,9 +37,9 @@
 
 ## 🌐 Website
 
-**[chaxus](https://chaxus.github.io/ran/)** - My personal site with some basic features like dark mode, PWA, and documentation
+**[ran](https://chaxus.github.io/ran/)** - My personal site with some basic features like dark mode, PWA, and documentation
 
-**[ranuts document](https://ranuts.github.io/document/)** - A web-based Office viewer and editor built with OnlyOffice WASM. Pure web client with no server required
+**[document](https://ranuts.github.io/document/)** - A web-based Office viewer and editor built with OnlyOffice WASM. Pure web client with no server required
 
 ---
 
