@@ -9,9 +9,11 @@
 ## 📬 Contact
 
 - **Email**: 81380@163.com
+<!--
 - **Twitter/X**: [chaxus1](https://x.com/chaxus1)
 - **Reddit**: [sometime_9](https://www.reddit.com/user/sometime_9/)
 - **v2ex**: [chaxus](https://www.v2ex.com/member/chaxus)
+-->
 
 ---
 
