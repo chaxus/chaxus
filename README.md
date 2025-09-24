@@ -1,7 +1,6 @@
 # ☀️ chaxus
 
 👋 Hi, I'm chaxus  
-💻 Frontend Developer  
 📚 Learning & Exploring
 
 ---
