@@ -20,6 +20,7 @@
 - **[vite](https://github.com/vitejs/vite)** - Next Generation Frontend Tooling
 - **[prettier](https://github.com/prettier/prettier)** - Opinionated Code Formatter
 - **[ai-elements](https://github.com/vercel/ai-elements)** - AI Elements is a component library built on top of [shadcn/ui](https://github.com/shadcn-ui/ui) to help you build AI-native applications faster
+- **[streamdown](https://github.com/vercel/streamdown)** - A drop-in replacement for react-markdown, designed for AI-powered streaming
 
 ---
 
