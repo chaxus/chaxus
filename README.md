@@ -6,8 +6,8 @@
 ## 🚀 Projects
 
 ### TypeScript
-- **[ranui](https://github.com/chaxus/ran)** - A simple UI component library using Web Components
-- **[ranuts](https://github.com/chaxus/ran)** - Some TypeScript utilities and code snippets I've collected
+- **[ranui](https://ran.chaxus.com/src/ranui/)** - A simple UI component library using Web Components
+- **[ranuts](https://ran.chaxus.com/src/ranuts/)** - Some TypeScript utilities and code snippets I've collected
 - **[ranlexer](https://github.com/chaxus/ranlexer)** - A basic JavaScript AST parser and generator
 
 ### C/C++
@@ -26,8 +26,8 @@
 
 ## 🌐 Website
 
-- **[ran](https://chaxus.github.io/ran/)** - My personal site with some basic features like dark mode, PWA, and documentation
-- **[document](https://ranuts.github.io/document/)** - A web-based Office viewer and editor built with OnlyOffice WASM. Pure web client with no server required
+- **[ran](https://ran.chaxus.com/)** - My personal site with some basic features like dark mode, PWA, and documentation
+- **[document](https://edit.chaxus.com/)** - A web-based Office viewer and editor built with OnlyOffice WASM. Pure web client with no server required
 
 ---
 
