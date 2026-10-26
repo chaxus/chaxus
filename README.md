@@ -28,9 +28,9 @@
 - **[ran](https://ran.chaxus.com/)** - My personal site with some basic features like dark mode, PWA, and documentation
 - **[document](https://edit.chaxus.com/)** - A web-based Office viewer and editor built with OnlyOffice WASM. Pure web client with no server required
 
--->
-
 ## 📊 Stats
+
+-->
 
 <a href="#stats" align="center">
   <picture>
