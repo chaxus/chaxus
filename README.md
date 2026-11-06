@@ -1,55 +1,33 @@
-<!-- 
-# ☀️ chaxus
+# chaxus
 
-👋 Hi, I'm chaxus  
-📚 Learning & Exploring
+**I build frontend infrastructure from scratch** — parsers, compilers, component libraries, and WebAssembly. Not gluing libraries together; writing the layers underneath, by hand.
 
-## 🚀 Projects
+从零手写前端基础设施：解析器、编译器、组件库、WASM。
 
-### TypeScript
-- **[ranui](https://github.com/chaxus/ran)** - A simple UI component library using Web Components
-- **[ranuts](https://github.com/chaxus/ran)** - Some TypeScript utilities and code snippets I've collected
-- **[ranlexer](https://github.com/chaxus/ranlexer)** - A basic JavaScript AST parser and generator
-
-### C/C++
-- **[ramedia](https://github.com/chaxus/ramedia)** - Trying to bring ffmpeg to the browser with WebAssembly
-
-
-## 🛠️ Contribution
-
-- **[vite](https://github.com/vitejs/vite)** - Next Generation Frontend Tooling
-- **[prettier](https://github.com/prettier/prettier)** - Opinionated Code Formatter
-- **[ai-elements](https://github.com/vercel/ai-elements)** - AI Elements is a component library built on top of [shadcn/ui](https://github.com/shadcn-ui/ui) to help you build AI-native applications faster
-- **[streamdown](https://github.com/vercel/streamdown)** - A drop-in replacement for react-markdown, designed for AI-powered streaming
-
-
-## 🌐 Website
-
-- **[ran](https://ran.chaxus.com/)** - My personal site with some basic features like dark mode, PWA, and documentation
-- **[document](https://edit.chaxus.com/)** - A web-based Office viewer and editor built with OnlyOffice WASM. Pure web client with no server required
-
-## 📊 Stats
-
--->
-
-<a href="#stats" align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=chaxus&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=github_dark&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=chaxus&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=default&hide_border=true&bg_color=00000000"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=chaxus&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=transparent" />
-  </picture>
-</a>
+→ **[chaxus.com](https://chaxus.com)**
 
 ---
 
-<div class="chaxus_hidden">
-  <a href="https://github.com/chaxus">
-    <img src="https://count.getloli.com/get/@chaxus?theme=rule34" style="width:0px;height:0px;" alt="chaxus"/>  
-  </a>
-</div>
+## Works
+
+| Layer | Repo | What it is |
+|---|---|---|
+| **Parser** | **[ranlexer](https://github.com/chaxus/ranlexer)** | JavaScript lexer, parser & code generator — a tiny AST toolchain from scratch |
+| **Compiler** | **[ranc](https://github.com/chaxus/ranc)** | JSX compiler with a Hooks runtime |
+| **Components** | **[ran](https://github.com/chaxus/ran)** · [ran.chaxus.com](https://ran.chaxus.com) | `ranui` (Web Components) + `ranuts` utilities |
+| **WASM · Office** | **[document](https://github.com/ranuts/document)** · [edit.chaxus.com](https://edit.chaxus.com) | Full Office suite (docx · xlsx · pptx) in the browser on OnlyOffice WASM — no upload, no backend |
+| **WASM · Media** | **[ramedia](https://github.com/chaxus/ramedia)** | ffmpeg brought to the browser via C/C++ → WebAssembly |
+
+Through-line: **parser → compiler → runtime → components → WASM.**
+
+---
+
+## Contributing to
+
+[vite](https://github.com/vitejs/vite) · [prettier](https://github.com/prettier/prettier) · [ai-elements](https://github.com/vercel/ai-elements) · [streamdown](https://github.com/vercel/streamdown)
+
+---
+
+## Stats
+
+![GitHub Metrics](github-metrics.svg)
