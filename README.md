@@ -1,33 +1,26 @@
 # chaxus
 
-**I build frontend infrastructure from scratch** — parsers, compilers, component libraries, and WebAssembly. Not gluing libraries together; writing the layers underneath, by hand.
+**Hand-built foundations** — the layers others import, cast by hand as running instruments.
 
-从零手写前端基础设施：解析器、编译器、组件库、WASM。
+把别人默认该 import 的层，亲手铸成可运行的器物。
 
 → **[chaxus.com](https://chaxus.com)**
 
 ---
 
-## Works
+## Instruments
 
-| Layer | Repo | What it is |
-|---|---|---|
-| **Parser** | **[ranlexer](https://github.com/chaxus/ranlexer)** | JavaScript lexer, parser & code generator — a tiny AST toolchain from scratch |
-| **Compiler** | **[ranc](https://github.com/chaxus/ranc)** | JSX compiler with a Hooks runtime |
-| **Components** | **[ran](https://github.com/chaxus/ran)** · [ran.chaxus.com](https://ran.chaxus.com) | `ranui` (Web Components) + `ranuts` utilities |
-| **WASM · Office** | **[document](https://github.com/ranuts/document)** · [edit.chaxus.com](https://edit.chaxus.com) | Full Office suite (docx · xlsx · pptx) in the browser on OnlyOffice WASM — no upload, no backend |
-| **WASM · Media** | **[ramedia](https://github.com/chaxus/ramedia)** | ffmpeg brought to the browser via C/C++ → WebAssembly |
+- **[document](https://github.com/ranuts/document)** · [edit.chaxus.com](https://edit.chaxus.com) — Office (docx · xlsx · pptx) in the browser on WebAssembly. No upload, no backend.
+- **[ran](https://github.com/chaxus/ran)** · [ran.chaxus.com](https://ran.chaxus.com) — `ranui` Web Components, `ranuts` utilities, and Ran Design methods.
+- **[agents](https://github.com/chaxus/agents)** — watch, steer, and approve coding agents on your machine from your phone.
+- **[flatpage](https://github.com/chaxus/flatpage)** — flatten photos of book pages in the browser. Offline, nothing uploaded.
 
-Through-line: **parser → compiler → runtime → components → WASM.**
+### Smaller tools
+
+[ranlexer](https://github.com/chaxus/ranlexer) · [ranc](https://github.com/chaxus/ranc) · [ramedia](https://github.com/chaxus/ramedia)
 
 ---
 
-## Contributing to
+## Elsewhere
 
 [vite](https://github.com/vitejs/vite) · [prettier](https://github.com/prettier/prettier) · [ai-elements](https://github.com/vercel/ai-elements) · [streamdown](https://github.com/vercel/streamdown)
-
----
-
-## Stats
-
-![GitHub Metrics](github-metrics.svg)
