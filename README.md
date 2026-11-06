@@ -25,3 +25,7 @@
 - **[prettier](https://github.com/prettier/prettier)** — Opinionated Code Formatter
 - **[ai-elements](https://github.com/vercel/ai-elements)** — Vercel's component library on top of [shadcn/ui](https://github.com/shadcn-ui/ui) for AI-native apps
 - **[streamdown](https://github.com/vercel/streamdown)** — a drop-in react-markdown replacement for AI streaming
+
+---
+
+![chaxus](https://count.getloli.com/get/@chaxus)
